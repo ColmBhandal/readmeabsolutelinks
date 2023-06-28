@@ -11,4 +11,4 @@ Example links:
  - [Link to actions](/../../actions)
  - [Link to repo](/../../)
 
-Inspired by [SO question]([url](https://stackoverflow.com/questions/40196198/automatic-link-to-github-pages-url-from-readme-md)https://stackoverflow.com/questions/40196198/automatic-link-to-github-pages-url-from-readme-md).
+Inspired by [SO question](https://stackoverflow.com/questions/40196198/automatic-link-to-github-pages-url-from-readme-md).
