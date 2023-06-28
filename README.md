@@ -1,6 +1,6 @@
 # readmeabsolutelinks
 
-A repo to test absolute links from README files at different levels of nesting. The trick is to use `/../../` before any links. This escapes GitHub's usual `blob/BRANCH` entries in the URL, and the browser then resolves them to be relative to the repo URL.
+A repo to test absolute links from README files at different levels of nesting. The trick is to use `/../../` before any links (leading slash important). This escapes GitHub's usual `blob/BRANCH` entries in the URL, and the browser then resolves them to be relative to the repo URL.
 
 Notes:
  - This has only been tested in Google Chrome
